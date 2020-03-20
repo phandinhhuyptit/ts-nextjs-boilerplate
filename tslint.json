@@ -1,0 +1,20 @@
+{
+  "extends": "gts/tslint.json",
+  "linterOptions": {
+    "exclude": ["**/*.json"]
+  },
+  "rules": {
+    "variable-name": [
+      true,
+      "check-format",
+      "ban-keywords",
+      "allow-leading-underscore",
+      "allow-trailing-underscore",
+      "allow-pascal-case"
+    ],
+    "member-access": true,
+    "no-any": false,
+    "interface-over-type-literal": false,
+    "no-default-export": false
+  }
+}

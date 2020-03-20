@@ -1,0 +1,91 @@
+// common
+$black: #0a1f44;
+$primary: #006ce6;
+$secondary: #eef7ff;
+$success: #00865a;
+$warning: #f7af22;
+$danger: #f13c3c;
+$disabled: #e1e4e8;
+$text-special: #553eb5;
+$white: #ffffff;
+$facebook: #37599f;
+$google: #ea4336;
+
+//text
+$label: #4e5d78;
+$highlight: #ff6a02;
+$text-grey: #8a94a6;
+$text-lightgrey: #d6e0f1;
+
+//background
+$lightgrey: #f7f8f9;
+$background-special: #f3f1fa;
+$background-grey: #c9ced6;
+$background-primary: #0f71ea;
+$background-lightorange: #fcd7ca;
+$light-danger: rgba($danger, 0.1);
+$light-success: rgba($success, 0.1);
+$light-warning: rgba($warning, 0.1);
+$progress: #fcd7ca;
+
+//hover
+$primary-hover: #0b67d5;
+$secondary-hover: #e4eef8;
+$warning-hover: #fef7e6;
+$success-hover: #eaf7f1;
+$danger-hover: #fce8e1;
+$black-hover: #ffffff;
+$lightgrey-hover: rgba(#0a1f44, 0.02);
+$background-grey-hover: #b1b8c3;
+
+$text-color: (
+  black: $black,
+  primary: $primary,
+  success: $success,
+  warning: $warning,
+  highlight: $highlight,
+  danger: $danger,
+  label: $label,
+  grey: $text-grey,
+  disabled: $disabled,
+  special: $text-special,
+  white: $white,
+  lightgrey: $text-lightgrey,
+  facebook: $facebook,
+  lightsuccess: $light-success,
+);
+
+$background-color: (
+  primary: $background-primary,
+  success: $success,
+  warning: $warning,
+  danger: $danger,
+  disabled: $disabled,
+  grey: $background-grey,
+  lightgrey: $lightgrey,
+  special: $background-special,
+  highlight: $highlight,
+  lightorange: $background-lightorange,
+  secondary: $secondary,
+  white: $white,
+  facebook: $facebook,
+  google: $google,
+  lightdanger: $light-danger,
+  lightwarning: $light-warning,
+  lightsuccess: $light-success,
+  progress: $progress,
+  black: $black,
+);
+
+$hover-color: (
+  primary: $primary-hover,
+  success: $success-hover,
+  warning: $warning-hover,
+  danger: $danger-hover,
+  grey: $background-grey-hover,
+  lightgrey: $lightgrey-hover,
+  facebook: $facebook,
+  google: $google,
+  disabled: $disabled,
+  secondary: $secondary-hover,
+);

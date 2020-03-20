@@ -1,0 +1,21 @@
+$tiny: 0.675rem;
+$small: 0.75rem;
+$medium: 0.875rem;
+$normal: 1rem;
+$large: 1.125rem;
+$huge: 1.25rem;
+$logo: 1.5rem;
+$brand: 2rem;
+$icon: 1.5rem;
+
+$sizes: (
+  tiny: $tiny,
+  small: $small,
+  medium: $medium,
+  normal: $normal,
+  large: $large,
+  huge: $huge,
+  logo: $logo,
+  brand: $brand,
+  icon: $icon,
+);

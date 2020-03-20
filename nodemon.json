@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "server.ts",
+    ".env",
+    "tsconfig.json",
+    "tsconfig-server.json"
+  ],
+  "ext": "js ts json"
+}

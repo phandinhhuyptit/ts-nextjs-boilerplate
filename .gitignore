@@ -1,0 +1,9 @@
+.idea
+.vscode
+build-bundle/
+*.log
+.next
+node_modules
+
+build
+.env
