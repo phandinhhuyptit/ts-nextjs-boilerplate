@@ -30,7 +30,7 @@
     "@coreui/coreui": "^3.0.0-beta.4",
     "@coreui/react": "^2.5.4",
     "@zeit/next-sass": "^0.2.1-canary.4",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "cookie": "^0.4.0",
